@@ -4,7 +4,7 @@ function App() {
   const list = ["unoi", "dos", "tres"];
   return (
     <Card>
-      <CardBody title="Hoal" text="Estees" />
+      <CardBody title="Aloo" text="Estees" />
       <List data={list} />
     </Card>
   );
